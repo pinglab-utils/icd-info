@@ -22,6 +22,14 @@ ICD-11 Info
 3. [Sample App model](https://github.com/ICD11/ICD11.github.io/wiki)
 4. [Web app](https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html)
 
+### Apps:
+1. https://github.com/weekdone/GoogleChartStyles
+2. https://github.com/PGayol/snomed-icd11-matching
+3. https://github.com/app-generator/flask-now-ui-dashboard
+4. https://github.com/IBM/nlc-icd10-classifier
+5. https://github.com/keen/dashboards
+6. https://github.com/josemsb/icd11
+
 
 ### References:
 1. Charts: https://www.fusioncharts.com/blog/sales-dashboard-using-react-framework-fusioncharts/
